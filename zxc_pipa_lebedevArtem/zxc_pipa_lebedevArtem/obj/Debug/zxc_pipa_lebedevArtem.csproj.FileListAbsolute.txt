@@ -1,0 +1,6 @@
+C:\Users\29361281\source\repos\zxc_pipa_lebedevArtem\zxc_pipa_lebedevArtem\bin\Debug\zxc_pipa_lebedevArtem.dll
+C:\Users\29361281\source\repos\zxc_pipa_lebedevArtem\zxc_pipa_lebedevArtem\bin\Debug\zxc_pipa_lebedevArtem.pdb
+C:\Users\29361281\source\repos\zxc_pipa_lebedevArtem\zxc_pipa_lebedevArtem\obj\Debug\zxc_pipa_lebedevArtem.csproj.AssemblyReference.cache
+C:\Users\29361281\source\repos\zxc_pipa_lebedevArtem\zxc_pipa_lebedevArtem\obj\Debug\zxc_pipa_lebedevArtem.csproj.CoreCompileInputs.cache
+C:\Users\29361281\source\repos\zxc_pipa_lebedevArtem\zxc_pipa_lebedevArtem\obj\Debug\zxc_pipa_lebedevArtem.dll
+C:\Users\29361281\source\repos\zxc_pipa_lebedevArtem\zxc_pipa_lebedevArtem\obj\Debug\zxc_pipa_lebedevArtem.pdb
